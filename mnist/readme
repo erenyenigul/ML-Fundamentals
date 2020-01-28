@@ -1,0 +1,2 @@
+Two-layer neural network with softmax loss using stochastic gradient descent.
+Average accuracy with a test set: %92.
